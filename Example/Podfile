@@ -1,0 +1,11 @@
+use_frameworks!
+
+target 'TGScrollRulerView_Example' do
+  pod 'TGScrollRulerView', :path => '../'
+
+  target 'TGScrollRulerView_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end
