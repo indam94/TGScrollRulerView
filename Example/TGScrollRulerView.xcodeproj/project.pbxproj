@@ -46,7 +46,7 @@
 		B048B9C8BA2FC8C4655E26AF /* Pods-TGScrollRulerView_Example.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-TGScrollRulerView_Example.release.xcconfig"; path = "Target Support Files/Pods-TGScrollRulerView_Example/Pods-TGScrollRulerView_Example.release.xcconfig"; sourceTree = "<group>"; };
 		B2F0D570746040824C561AB6 /* Pods_TGScrollRulerView_Tests.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_TGScrollRulerView_Tests.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		D9C555C57C6DD5B07EEA32D5 /* README.md */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = net.daringfireball.markdown; name = README.md; path = ../README.md; sourceTree = "<group>"; };
-		EBEA33E0D1438FB091836F3D /* TGScrollRulerView.podspec */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; name = TGScrollRulerView.podspec; path = ../TGScrollRulerView.podspec; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.ruby; };
+		EBEA33E0D1438FB091836F3D /* TGScrollRulerView.podspec */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; name = TGScrollRulerView.podspec; path = ../TGScrollRulerView.podspec; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
