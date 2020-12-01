@@ -1,0 +1,16 @@
+PODS:
+  - TGScrollRulerView (0.1.0)
+
+DEPENDENCIES:
+  - TGScrollRulerView (from `../`)
+
+EXTERNAL SOURCES:
+  TGScrollRulerView:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  TGScrollRulerView: 50a6f1acc7c983bb21eb1698a0bde1ddfed30377
+
+PODFILE CHECKSUM: 174ea4c17cb18e12bd8b216391326ca152e421db
+
+COCOAPODS: 1.9.3

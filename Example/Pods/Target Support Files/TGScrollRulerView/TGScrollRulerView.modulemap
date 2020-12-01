@@ -1,0 +1,6 @@
+framework module TGScrollRulerView {
+  umbrella header "TGScrollRulerView-umbrella.h"
+
+  export *
+  module * { export * }
+}

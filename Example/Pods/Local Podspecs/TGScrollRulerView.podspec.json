@@ -1,0 +1,22 @@
+{
+  "name": "TGScrollRulerView",
+  "version": "0.1.0",
+  "summary": "A short description of TGScrollRulerView.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/indam94/TGScrollRulerView",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "indam94": "d0n99un17@gmail.com"
+  },
+  "source": {
+    "git": "https://github.com/indam94/TGScrollRulerView.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "TGScrollRulerView/Classes/**/*"
+}
