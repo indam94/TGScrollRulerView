@@ -22,7 +22,7 @@ pod 'TGScrollRulerView'
 
 ## Author
 
-indam94, d0n99un17@gmail.com
+indam94, t0n9.studi0@gmail.com
 
 ## License
 
