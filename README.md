@@ -26,4 +26,4 @@ indam94, d0n99un17@gmail.com
 
 ## License
 
-TGScrollRulerView is available under the MIT license. See the LICENSE file for more info.
+TGScrollRulerView is available under the MIT license. See the [License]LICENSE file for more info.
