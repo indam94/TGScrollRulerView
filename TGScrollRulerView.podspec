@@ -30,7 +30,7 @@ TODO: Add long description of the pod here.
 
   s.ios.deployment_target = '9.0'
 
-  s.source_files = 'Sources/TGScrollRulerView/Classes/**/*'
+  s.source_files = 'TGScrollRulerView/Classes/**/*'
   
   # s.resource_bundles = {
   #   'TGScrollRulerView' => ['TGScrollRulerView/Assets/*.png']
