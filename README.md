@@ -1,6 +1,6 @@
 # TGScrollRulerView
 
-[![CI Status](https://img.shields.io/travis/indam94/TGScrollRulerView.svg?style=flat)](https://travis-ci.org/indam94/TGScrollRulerView)
+[![SwiftPM](https://img.shields.io/badge/SPM-supported-DE5C43.svg?style=flat)](https://swift.org/package-manager/)
 [![Version](https://img.shields.io/cocoapods/v/TGScrollRulerView.svg?style=flat)](https://cocoapods.org/pods/TGScrollRulerView)
 [![License](https://img.shields.io/cocoapods/l/TGScrollRulerView.svg?style=flat)](https://cocoapods.org/pods/TGScrollRulerView)
 [![Platform](https://img.shields.io/cocoapods/p/TGScrollRulerView.svg?style=flat)](https://cocoapods.org/pods/TGScrollRulerView)
