@@ -121,6 +121,15 @@
 			name = "Targets Support Files";
 			sourceTree = "<group>";
 		};
+		22B73BB32575EE56009BC59E /* Classes */ = {
+			isa = PBXGroup;
+			children = (
+				227C59022574884C009A75A3 /* TGScrollRulerView.swift */,
+				227C590D2574A8AA009A75A3 /* TGScrollRulerViewCell.swift */,
+			);
+			path = Classes;
+			sourceTree = "<group>";
+		};
 		4023092C65C22591F8285A9CA1500785 /* Pods-TGScrollRulerView_Example */ = {
 			isa = PBXGroup;
 			children = (
@@ -190,8 +199,7 @@
 		B55F801A72FE4A0D881B11FD2D907187 /* TGScrollRulerView */ = {
 			isa = PBXGroup;
 			children = (
-				227C59022574884C009A75A3 /* TGScrollRulerView.swift */,
-				227C590D2574A8AA009A75A3 /* TGScrollRulerViewCell.swift */,
+				22B73BB32575EE56009BC59E /* Classes */,
 				1176EDDA8FAD2E1C64FC6BA0DA6F3C74 /* Pod */,
 				9640B15781BE65E017683FBE8CA322C9 /* Support Files */,
 			);
